@@ -1,15 +1,11 @@
 ﻿# Job-Application-Geeks
 
-We are planning on creating a database system for faculty, administrators, instructors,
+<!-- We are planning on creating a database system for faculty, administrators, instructors,
 and students to assist in scheduling courses for a semester. This system will allow students
 to add/drop classes and for instructors, advisors, and administrators to edit and offer courses in a
 way that fits their schedule. The system will also allow for basic enrollment functionalities and
 scholarship/grant awards.Includes a Full Stack implementation with front-end (React.js, Material UI),
-back-end (Express, Node) , and with database intergration.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+back-end (Express, Node) , and with database intergration. -->
 
 ## Getting Started
 
@@ -44,13 +40,5 @@ npm run dev <will run both client side and server side>
 CTRL + C to terminate application
 ```
 
-## Authors
-
+## Author
 Jimmy Huynh (jimmyhuynh2000@vt.edu) </br>
-David Rowson (davidfr333@gmail.com)</br>
-Caeden Erickson (caedenperickson@gmail.com)</br>
-Christian Workman (christian.workman.2015@gmail.com)</br>
-
-## Version History
-
-## Acknowledgments
